@@ -1,0 +1,4 @@
+django-bootstrap-form
+pandas
+sankey
+pysankey

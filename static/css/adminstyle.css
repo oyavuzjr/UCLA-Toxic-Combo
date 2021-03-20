@@ -1,0 +1,32 @@
+#header {
+  background: #2c5e91;
+  color: #f7bc03;
+}
+
+.module h2,
+.module caption,
+.inline-group h2 {
+  background: #266693;
+  color: #fff;
+}
+
+div.breadcrumbs {
+  background: #1f3745;
+  color: #f7bc03;
+}
+
+#branding h1,
+#branding h1 a:link,
+#branding h1 a:visited {
+  color: #f7bc03;
+}
+
+#nav-sidebar .current-model {
+  background: #dfe4ea;
+}
+
+#nav-sidebar .current-app .section:link,
+#nav-sidebar .current-app .section:visited {
+  color: #eccc68;
+  font-weight: bold;
+}
